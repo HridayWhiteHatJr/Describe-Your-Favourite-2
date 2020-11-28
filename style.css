@@ -39,12 +39,8 @@ p {
     padding: 8px;
     font-family: font-family: 'Quattrocento', serif;
     font-size: 20px;
-
 }
 
-.listItems:hover {
-    color:black;
-}
 
 H2 {
     font-size: 30px;
@@ -74,4 +70,17 @@ p2 {
 
 #Contact {
     background: linear-gradient(#FF6D00 0%, #D500F9 100%);
+    padding: 20px !important;
 }
+a{
+        text-decoration: none;
+        
+}
+a:hover{
+    background:  linear-gradient(#4527A0 0%, #2962FF 100%);
+    color: black;
+}
+section{
+    padding:100px;
+    height: 250px;
+    }
