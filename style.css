@@ -43,7 +43,7 @@ p {
 }
 
 .listItems:hover {
-    color: blue;
+    color:black;
 }
 
 H2 {
@@ -72,6 +72,6 @@ p2 {
     font-size: 25px;
 }
 
-#Conatct {
+#Contact {
     background: linear-gradient(#FF6D00 0%, #D500F9 100%);
 }
